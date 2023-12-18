@@ -1,0 +1,13 @@
+dataPath           = ./../data/
+dataFileName       = 22.dat
+binaryPath         = ./../outputBinary/
+databaseFileName   = SegmentDB
+secretKeyFileName  = SecretKey.dat
+segmentStorePrefix = SegmentList
+segmentInOneFile   = 5000
+blockSize          = 4
+segmentInLine      = 3
+orderInLine        = 15
+separatorSegment   = @
+separatorOrder     = |
+resultPath         = ./../outputData/

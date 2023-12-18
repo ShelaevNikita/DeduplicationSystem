@@ -1,0 +1,118 @@
+			 The program to find patterns in text
+
+
+	 Pattern "rage", number of line: 24
+   7-10
+Rage, rage against the dying of the light.
+
+	 Pattern "light", number of line: 24
+   37-41
+Rage, rage against the dying of the light.
+
+	 Pattern "gentle", number of line: 1
+   11-16
+Do not go gentle into that good night,
+
+	 Pattern "gentle", number of line: 23
+   11-16
+Do not go gentle into that good night.
+
+	 Pattern "I", number of line: 22
+   46-46
+Curse, bless, me now with your fierce tears, I pray.
+
+	 Pattern "the", number of line: 24
+   20-22   33-35
+Rage, rage against the dying of the light.
+
+	 Pattern "the", number of line: 5
+   20-22
+Though wise men at their end know dark is right,
+
+	 Pattern "the", number of line: 21
+   15-17   21-23   30-32
+And you, my father, there on the sad height,
+
+	 Pattern "who", number of line: 17
+   24-26
+Grave men, near death, who see with blinding sight
+
+	 Pattern "light", number of line: 6
+   35-39
+Because their words had forked no lightning they
+
+	 Pattern "gentle", number of line: 7
+   11-16
+Do not go gentle into that good night.
+
+	 Pattern "blaze", number of line: 18
+   18-22
+Blind eyes could blaze like meteors and be gay,
+
+	 Pattern "the", number of line: 9
+   11-13
+Good men, the last wave by, crying how bright
+
+	 Pattern "the", number of line: 6
+   9-11   45-47
+Because their words had forked no lightning they
+
+	 Pattern "light", number of line: 13
+   42-46
+Wild men who caught and sang the sun in flight,
+
+	 Pattern "rage", number of line: 19
+   7-10
+Rage, rage against the dying of the light.
+
+	 Pattern "light", number of line: 19
+   37-41
+Rage, rage against the dying of the light.
+
+	 Pattern "the", number of line: 13
+   30-32
+Wild men who caught and sang the sun in flight,
+
+	 Pattern "gentle", number of line: 15
+   11-16
+Do not go gentle into that good night.
+
+	 Pattern "who", number of line: 13
+   10-12
+Wild men who caught and sang the sun in flight,
+
+	 Pattern "the", number of line: 19
+   20-22   33-35
+Rage, rage against the dying of the light.
+
+	 Pattern "rage", number of line: 3
+   7-10
+Rage, rage against the dying of the light.
+
+	 Pattern "way", number of line: 14
+   45-47
+And learn, too late, they grieved it on its way,
+
+	 Pattern "light", number of line: 3
+   37-41
+Rage, rage against the dying of the light.
+
+	 Pattern "rage", number of line: 11
+   7-10
+Rage, rage against the dying of the light.
+
+	 Pattern "light", number of line: 11
+   37-41
+Rage, rage against the dying of the light.
+
+	 Pattern "the", number of line: 14
+   22-24
+And learn, too late, they grieved it on its way,
+
+	 Pattern "the", number of line: 3
+   20-22   33-35
+Rage, rage against the dying of the light.
+
+	 Pattern "the", number of line: 11
+   20-22   33-35
+Rage, rage against the dying of the light.
